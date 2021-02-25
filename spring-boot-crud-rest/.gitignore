@@ -1,0 +1,8 @@
+### Eclipse ###
+*.jar
+.mvn
+.settings
+/target/*
+.project
+.classpath
+
